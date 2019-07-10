@@ -1,3 +1,3 @@
 # Bootstrap-Portfolio
 
-https://jimmyrdz.github.io/Bootstrap-Portfolio/contact.html
+https://jimmyrdz.github.io/Bootstrap-Portfolio/index.html
